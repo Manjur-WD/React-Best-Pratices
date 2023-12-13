@@ -4,18 +4,18 @@
 # React Small Project Folder Structure
 <br>
 <h3>Under Src Folder</h3>
--components folder
-  --Header.jsx
-  --Footer.jsx
-  --Buttons.jsx
-  --Card.jsx
+-components folder <br>
+  --Header.jsx <br>
+  --Footer.jsx <br>
+  --Buttons.jsx <br>
+  --Card.jsx <br>
 -pages folder
- --Home.jsx and Home.css
- --About.jsx and About.css
- --Services.jsx and Services.css
- --Contact.jsx and Contact.jsx
--App.jsx
--App.css
--index or main.jsx
--utills.jsx
+ --Home.jsx and Home.css <br>
+ --About.jsx and About.css <br>
+ --Services.jsx and Services.css <br>
+ --Contact.jsx and Contact.jsx <br>
+-App.jsx <br>
+-App.css <br>
+-index or main.jsx <br>
+-utills.jsx <br>
 
