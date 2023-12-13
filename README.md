@@ -5,17 +5,17 @@
 <br>
 <h3>Under Src Folder</h3>
 -components folder <br>
-  --Header.jsx <br>
-  --Footer.jsx <br>
-  --Buttons.jsx <br>
-  --Card.jsx <br>
--pages folder <br>
- --Home.jsx and Home.css <br>
- --About.jsx and About.css <br>
- --Services.jsx and Services.css <br>
- --Contact.jsx and Contact.jsx <br>
--App.jsx <br>
--App.css <br>
--index or main.jsx <br>
--utills.jsx <br>
+  &nbsp; --Header.jsx <br>
+   &nbsp; --Footer.jsx <br>
+   &nbsp; --Buttons.jsx <br>
+  &nbsp;  --Card.jsx <br>
+ &nbsp; -pages folder <br>
+  &nbsp; --Home.jsx and Home.css <br>
+  &nbsp; --About.jsx and About.css <br>
+  &nbsp; --Services.jsx and Services.css <br>
+  &nbsp; --Contact.jsx and Contact.jsx <br>
+ &nbsp; -App.jsx <br>
+ &nbsp; -App.css <br>
+ &nbsp; -index or main.jsx <br>
+ &nbsp; -utills.jsx <br>
 
