@@ -9,7 +9,7 @@
   --Footer.jsx <br>
   --Buttons.jsx <br>
   --Card.jsx <br>
--pages folder
+-pages folder <br>
  --Home.jsx and Home.css <br>
  --About.jsx and About.css <br>
  --Services.jsx and Services.css <br>
