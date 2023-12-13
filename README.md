@@ -1,3 +1,4 @@
 # React-Best-Pratices
 
-<strong>React Folder Structure</strong>
+<h1>React Folder Structure</h1>
+# React Small Project Folder Structure
